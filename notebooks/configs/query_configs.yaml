@@ -1,0 +1,7 @@
+name: QueryConfigs
+params:
+  year-range: (2019, 2022)
+  fields:
+    - cell profiling
+    - morphological profiling
+    - single cell morphology

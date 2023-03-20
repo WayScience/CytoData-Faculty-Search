@@ -1,0 +1,7 @@
+doc:
+  " This is current on the works. Schema will be used to validate the parameters
+  found within Query configs. We will be use a tool known as `Cerberus`, which
+  is a light way package that provide data validation functionality.
+
+  https://docs.python-cerberus.org/en/stable/
+  "

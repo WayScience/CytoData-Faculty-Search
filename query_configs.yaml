@@ -1,0 +1,25 @@
+# contains all request header parameters
+
+criteria:
+  fiscal_years:
+    - 2018
+    - 2019
+
+include_fields:
+  - ApplId
+  - SubprojectId
+  - FiscalYear
+  - Organization,
+  - ProjectNum
+  - OrgCountry
+  - ProjectNumSplit
+  - ContactPiName
+  - AllText
+  - FullStudySection
+  - ProjectStartDate
+  - ProjectEndDate
+
+offset: 0
+limit: 25
+sort_fields: project_start_date
+
